@@ -1,0 +1,4 @@
+.nav-pills .nav-link.active{
+    color: black;
+    background-color: gainsboro;
+}
